@@ -1,0 +1,11 @@
+body{
+    height: 100vh;
+    background-color: deeppink;
+}
+
+#timestamp{
+color: crimson;
+font-size: 15px;
+font-weight: 700;
+
+}
